@@ -4,7 +4,7 @@
   "description": "Just for testing purposes",
   "author": "",
   "license": "MIT",
-  "repository": "/tiny-react-app",
+  "repository": "https://github.com/FrancoAA/tiny-react-app/tiny-react-app",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
