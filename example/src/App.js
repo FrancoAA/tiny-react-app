@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 
-import BasicExample from 'tiny-react-app'
+import MyComponent from 'tiny-react-app'
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <BasicExample />
+        <MyComponent />
       </div>
     )
   }
