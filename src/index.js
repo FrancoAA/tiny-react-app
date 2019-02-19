@@ -47,7 +47,7 @@ const Topics = ({ match }) => (
   </div>
 )
 
-const MyComponent = () => (
+const TinyReactApp = () => (
   <Router>
     <div>
       <ul>
@@ -65,4 +65,4 @@ const MyComponent = () => (
   </Router>
 );
 
-export default MyComponent;
+export default TinyReactApp;
